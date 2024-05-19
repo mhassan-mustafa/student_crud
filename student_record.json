@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Hassan",
+        "roll_no": "std_1",
+        "grades": "75%"
+    },
+    {
+        "name": "Ihtisham",
+        "roll_no": "std_2",
+        "grades": "85%"
+    },
+    {
+        "name": "Inam_ullah",
+        "roll_no": "std_3",
+        "grades": "90%"
+    }
+]
