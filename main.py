@@ -1,5 +1,5 @@
 import json
-from student_crud.functions import add_student, display_all, search_student, update_student, delete_student, exit
+from functions import *
 
 
 def main():

@@ -1,17 +1,17 @@
 [
     {
-        "name": "Hassan",
+        "name": "Alice",
         "roll_no": "std_1",
-        "grades": "75%"
+        "grades": "90%"
     },
     {
-        "name": "Ihtisham",
+        "name": "Bob",
         "roll_no": "std_2",
         "grades": "85%"
     },
     {
-        "name": "Inam_ullah",
+        "name": "John",
         "roll_no": "std_3",
-        "grades": "90%"
+        "grades": "80%"
     }
 ]
